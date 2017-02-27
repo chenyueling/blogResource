@@ -70,8 +70,11 @@ friends: [  # 友链
           	{
           		title: "xiezefan",
           		href: "http://xiezefan.me/"
-          	}
-
+          	},
+          	{
+                title: "Typing",
+                href: "https://chellynov.github.io/"
+            }
 ]
 
 # Directory
